@@ -154,7 +154,7 @@ a:hover {
     font-size: 20px;
 }
 
-.btn {}
+
 
 
 
@@ -376,4 +376,84 @@ hr {
 
 .timeline-body>p+p {
     margin-top: 5px;
+}
+
+.anhminhhoa {
+
+    height: 500px;
+    background-image: url(./css-grid-layout-1536x672.jpeg);
+}
+
+.anhminhhoa h1 {
+    text-align: center;
+    padding: 250px;
+
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+
+
+.bocuc {
+    display: flex;
+}
+
+.yeucau h1 {
+    margin-left: 100px;
+}
+
+.yeucau ul {
+    margin: 30px;
+    width: 600px;
+    font-size: 25px;
+    list-style: none;
+    border: 5px solid #ccc;
+    float: left;
+}
+
+.thamkhao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 300px;
+    border-radius: none;
+    font-size: 20px;
+
+}
+
+
+.thamkhao a,
+p {
+
+    text-decoration: none;
+}
+
+.thamkhao1 {
+    color: black;
+}
+
+.thamkhao button {
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+
+
+}
+
+.thamkhao2 {
+    color: white;
+}
+
+.tk1 {
+    background-color: #4cab6e;
+}
+
+.tk2 {
+    background-color: #fff4a3;
+
+}
+
+.tk3 {
+    background-color: #282a35;
 }
