@@ -457,3 +457,45 @@ p {
 .tk3 {
     background-color: #282a35;
 }
+
+/**************DEsigen/****************/
+.content-img {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.content-img1 {}
+
+.content-img2 {
+
+    width: 600px;
+    height: 800px;
+
+
+}
+
+.Figma {
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.content-img1 h3,
+.content-img2 h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.content-img1 p,
+.content-img2 p {
+    font-size: 20px;
+}
+
+.content-img1 button,
+.content-img2 button {
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    background: #3696d9;
+}
